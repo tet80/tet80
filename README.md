@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩‍💻 Olá! Eu sou a Stefany
 
-<!--
-**tet80/tet80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 17 anos e estou cursando **Análise e Desenvolvimento de Sistemas** através do programa **Trilhas do Futuro - 5ª Edição**.
 
-Here are some ideas to get you started:
+💡 Apaixonada por tecnologia, estou sempre em busca de aprender algo novo e desenvolver minhas habilidades como futura desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meus principais interesses incluem:
+- Desenvolvimento Web
+- Lógica de programação
+- Aprendizado contínuo
+
+🛠️ Tecnologias e ferramentas que estou aprendendo:
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Lógica de programação com Python
+- Banco de Dados
+
+📚 Projetos em andamento:
+- Meu primeiro portfólio pessoal
+- Pequenos desafios de lógica
+- Projetos propostos no curso
