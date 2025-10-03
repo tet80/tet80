@@ -1,6 +1,6 @@
 # 👩‍💻 Olá! Eu sou a Stefany
 
-🎓 Tenho 17 anos e estou cursando **Análise e Desenvolvimento de Sistemas** através do programa **Trilhas do Futuro - 5ª Edição**.
+🎓 Tenho 18 anos e estou cursando **Análise e Desenvolvimento de Sistemas** através do programa **Trilhas do Futuro - 5ª Edição**.
 
 💡 Apaixonada por tecnologia, estou sempre em busca de aprender algo novo e desenvolver minhas habilidades como futura desenvolvedora.
 
